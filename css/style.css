@@ -30,7 +30,7 @@ ul{
          margin-right: auto;
 }
 /* small */
-@media(min-width:768px)
+@media(max-width:768px)
 {
          .container{
                   width:750px;
