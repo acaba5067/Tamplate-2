@@ -35,11 +35,8 @@ ul{
          .container{
                   width:750px;
          }
-         .container .landing .text{
-          position: absolute;
-             left:50%;
-             top:50%;
-             transform: translate((-50%,-50%));
+         .container .landing .text .content p{
+         display: none;
          }
 }
 /* meduim */
