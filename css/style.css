@@ -40,11 +40,9 @@ ul{
      }
      .container .landing .text{
           width: 100%;
-          height: 500px;
      }
      .container .landing .text .content{
-          width: 100%;
-          height: 300px;
+         display: none;
      }
 }
 /* meduim */
