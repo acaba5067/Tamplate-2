@@ -35,15 +35,6 @@ ul{
          .container{
                   width:750px;
          }
-         .container .landing{
-          width: 100%;
-     }
-     .container .landing .text{
-          width: 100%;
-     }
-     .container .landing .text .content{
-         display: none;
-     }
 }
 /* meduim */
 @media (min-width:992px)
@@ -243,7 +234,7 @@ header nav .form i{
 .landing .text .content{
          max-width: 500px;
 }
-/* @media(max-width:767px){
+@media(max-width:767px){
      .landing{
           width: 100%;
      }
@@ -253,7 +244,7 @@ header nav .form i{
      .landing .text .content{
           width: 100%;
      }
-} */
+}
 .landing .text .content h2
 {
          font-size: 25px;
