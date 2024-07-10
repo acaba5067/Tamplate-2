@@ -35,6 +35,12 @@ ul{
          .container{
                   width:750px;
          }
+         .container .landing .text{
+          position: absolute;
+             left:50%;
+             top:50%;
+             transform: translate((-50%,-50%));
+         }
 }
 /* meduim */
 @media (min-width:992px)
