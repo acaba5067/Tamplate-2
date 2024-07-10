@@ -35,6 +35,15 @@ ul{
          .container{
                   width:750px;
          }
+         .landing{
+          width: 100%;
+     }
+     .landing .text{
+          width: 100%;
+     }
+     .landing .text .content{
+          width: 100%;
+     }
 }
 /* meduim */
 @media (min-width:992px)
