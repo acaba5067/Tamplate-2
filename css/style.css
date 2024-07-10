@@ -35,6 +35,10 @@ ul{
          .container{
                   width:750px;
          }
+         .container .landing
+         {
+          width: 100%;
+         }
          .container .landing .text .content {
                position: absolute;
                left: 50%;
