@@ -465,7 +465,6 @@ header nav .form i{
 @media(max-width:768px)
 {.portiflio .imgs-container .box
      {
-          flex-basis: 100%;
           margin: auto;
      }
      
