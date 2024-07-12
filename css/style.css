@@ -754,6 +754,12 @@ header nav .form i{
      border-radius: 50%;
      margin-right: 10px;
 }
+@media(max-width:768px)
+{
+     .our-skills .testimonials .bullets{
+          display: none;
+     }
+}
 .our-skills .testimonials .bullets li.active
 {
      background-color: var(--main-color);
