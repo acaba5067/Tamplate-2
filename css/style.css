@@ -470,6 +470,14 @@ header nav .form i{
      }
      
 }
+@media(min-width:768px)
+{.portiflio .imgs-container .box
+     {
+          flex-basis: 50%;
+          
+     }
+     
+}
 @media(min-width:1199px)
 {.portiflio .imgs-container .box
      {
