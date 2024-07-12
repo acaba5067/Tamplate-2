@@ -462,10 +462,10 @@ header nav .form i{
    transform: rotate(3deg)   scale(1.1);
 
 }
-@media(min-width:768px)
+@media(max-width:768px)
 {.portiflio .imgs-container .box
      {
-          flex-basis: 50%;
+          flex-basis: 100%;
      }
      
 }
