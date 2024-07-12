@@ -631,12 +631,12 @@ header nav .form i{
      padding: 20px 50px;
      background-color: var(--transparent-color);
 }
-@media(max-width:768px)
+/* @media(max-width:768px)
 {
      .stats .box{
           flex-basis: 100%;
      }
-} 
+}  */
 /* @media(min-width:768px)
 {
      .stats .box{
