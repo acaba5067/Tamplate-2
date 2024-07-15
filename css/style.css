@@ -861,7 +861,13 @@ position: relative;
      align-items: center;
      flex-wrap: wrap;
 }
+@media(max-width:768px){
+     .pricing .plans{
+          flex-direction: column;
+          margin-bottom: 30px;
+     }
 
+}
 .pricing .plans .plan
 {
    background-color: #fefcfc;
